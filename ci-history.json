@@ -1,0 +1,5 @@
+{"updated":"2026-10-03T18:47:01Z",
+"ci":[
+{"id":37145139297,"at":"2026-10-03T18:41:18Z","sha":"b1bfa1f26","title":"Split: the base layer is its own crate (plx_base)","pr":398,"jobs":{"host unit tests (default features)":290,"host lint + type-checks":215,"host unit tests (hostsim)":261,"cross-build (armv7) + artifact assertions":293,"host python/shell/C gates":306,"host checks (NOT a device gate)":4}}
+],
+"sim":[]}
